@@ -13,6 +13,7 @@ void copyArray(int arrFrom[], int arrTo[], int &size) {
 }
 void printVect(vector<int> myFirstVector) {
 	for (int i = 0; i < (int)myFirstVector.size(); i++) {
+		if(i != (int)myFirstVector.size() -1)
 		cout << (char)myFirstVector[i] << ":";
 	}
 	cout << endl;
