@@ -1,0 +1,29 @@
+Assignment for Feb 16, 201 7
+
+Each student is to define the following terms as they relate to C++/Computer Science.
+
+Key Terms: (The definitions if computers are available need to be as precise as possible)
+Arrays, Index, Pointer, Reference, Variable, Persistence(object persistence), ifsteam, ofstream, 
+cout, cin, Vector, Stack, Queue, input, output, “new” as in the creation of a dynamic array.
+
+Explain the components of arrays. Use pictures, also make sure you mention physical address location.
+Explain the difference in the cin and the ifstream. 
+Explain the difference in the cout and ofstream.
+Define which is input and which output.
+
+Explain how a file is like a user typing into the command line prompt?
+
+Finally after this, think about the following prompt.
+You are a programmer storing data for reuse from a program. Develop functions that allow you to 
+save all the relevant information about each of the three “Clients/Users” such that your program 
+will save their information to a file, and then you also develop functions to remove that 
+information from a file at a later date. Remember you are going to take information from variables 
+and store to a file, and then the reverse as well.
+The Three Client/Users are :       Student,     Bank Account Holder,    Employee
+(Make sure with each of these, you define what fields of information you wish to store about 
+each individual element of the three/clients i.e. You need to store all pertinent variables you can think of for each  Client, separately.) 
+
+
+
+
+
